@@ -14017,16 +14017,16 @@ const PROJECTS = [
     badge: null,
     icon: "fa-solid fa-brain"
   },
-  {
+{
     id: 5,
-    name: "Secure Auth System",
-    description: "Enterprise-grade authentication framework with zero-trust architecture, MFA support, session fingerprinting, and anomaly detection.",
-    tags: ["Node.js", "JWT", "OAuth", "Encryption"],
-    url: null,
+    name: "SIM Database",
+    description: "Advanced SIM information lookup system with real-time carrier detection, number portability status, and comprehensive metadata extraction across multiple telecom providers.",
+    tags: ["Database", "API", "OSINT", "Telecom"],
+    url: "https://obsidian-scan-ruddy.vercel.app/",  // 🔁 apni live link yahan daalna
     panelUrl: null,
     badge: null,
-    icon: "fa-solid fa-lock"
-  },
+    icon: "fa-solid fa-sim-card"
+},
   {
     id: 6,
     name: "Bot Control Dashboard",
